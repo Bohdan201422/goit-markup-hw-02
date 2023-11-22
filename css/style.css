@@ -52,7 +52,8 @@ body {
   text-decoration: none;
 }
 
-.link-nav:hover {
+.link-nav:hover,
+.link-nav:focus {
   color: #404bbf;
 }
 
