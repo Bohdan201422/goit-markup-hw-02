@@ -92,7 +92,7 @@ body {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.07;
   letter-spacing: 1.12px;
 }
 
@@ -108,7 +108,8 @@ body {
   cursor: pointer;
 }
 
-.order-button:hover {
+.order-button:hover,
+.order-button:focus {
   background: #404bbf;
 }
 
